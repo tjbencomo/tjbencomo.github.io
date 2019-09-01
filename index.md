@@ -4,7 +4,7 @@ During school I study the genetics of skin cancer in
 [Carolyn Lee's Lab](https://leelab.stanford.edu).I've spent the past two
 summers researching precision medicine for Glioblastoma
 in [Kristin Swanson's Lab](http://mathematicalneurooncology.org) at The Mayo Clinic.
-After undergraduate I plan to get an MD/PhD and become a physician-scientist.
+After undergrad I plan to get an MD/PhD and become a physician-scientist.
 Outside of science I like movies and trying new burger
 restaurants.
 
@@ -24,8 +24,8 @@ HPC cluster. My responsibilities also include managing data pipelines and storag
 for the lab.
 ## Swanson Lab
 My summer fellowships used MR imaging to study different aspects of Glioblastoma.
-Freshman year I investigated sex differences in MR imaging. Sophomore year I used
-MRI and MALDI to study blood brain barrier permeability in mice, building models to 
+Freshman year I investigated sex differences in MR imaging. Sophomore year I studied 
+blood brain barrier permeability in mice, building models to 
 predict drug distribution in the brain. I also helped develop prognostic risk models
 to predict survival using tumor size and location. Both summers required me to build
 data pipelines to preprocess imaging data for analysis.
