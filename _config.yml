@@ -1,10 +1,3 @@
 theme: jekyll-theme-minimal
-author: Tomas Bencomo
-email: tjbencomo@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  My description goes here
-# social links
-twitter_username: my-twitter-handle
-github_username:  my-github-handle
-
-show_excerpts: true # set to false to remove excerpts on the homepage
+title: Tomas Bencomo
+description: My future description here
