@@ -3,5 +3,5 @@ title: Tomas Bencomo
 description:
 logo: https://github.com/tjbencomo/tjbencomo.github.io/blob/master/Bencomo_Tomas_J_18JU.JPG?raw=true
 show_downloads: "false"
-twitter_username: BencomoTomas
-github_username: tjbencomo
+social_links:
+  twitter: BencomoTomas
