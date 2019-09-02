@@ -17,7 +17,7 @@ reproducible research, and science education.
 # Research Experience
 ## Lee Lab
 My research at school focuses on using bioinformatics to characterize
-novel genes and identify treatments for skin cancers. I have experience
+novel oncogenes and identify treatments for skin cancers. I have experience
 conducting Whole Exome and RNA sequencing studies using
 Stanford's [Sherlock](https://www.sherlock.stanford.edu/docs/overview/introduction/)
 HPC cluster. My responsibilities also include managing data pipelines and storage
@@ -31,6 +31,9 @@ to predict survival using tumor size and location. Both summers required me to b
 data pipelines to preprocess imaging data for analysis.
 
 # Social Media
+[![](/assets/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tomasbencomo/)
+[![](/assets/assets/Twitter_Logo_Blue.png)](https://twitter.com/BencomoTomas)
+[![](/assets/assets/stack-overflow-logo.png)](https://stats.stackexchange.com/users/246432/tomas-bencomo?tab=profile)
 
 # CV
 
