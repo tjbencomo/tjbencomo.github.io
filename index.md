@@ -30,12 +30,13 @@ predict drug distribution in the brain. I also helped develop prognostic risk mo
 to predict survival using tumor size and location. Both summers required me to build
 data pipelines to preprocess imaging data for analysis.
 
+# Resources
+[List of resources for statistics, bioinformatics, and machine learning](https://github.com/tjbencomo/notes/blob/master/methods_resources.md)
+
+# CV
+My [curriculum vitae]()
+
 # Social Media
 [![](/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tomasbencomo/)
 [![](/assets/Twitter_Logo_Blue.png)](https://twitter.com/BencomoTomas)
 [![](/assets/stack-overflow-logo.png)](https://stats.stackexchange.com/users/246432/tomas-bencomo?tab=profile)
-
-# CV
-
-# Resources
-[List of resources for statistics, bioinformatics, and machine learning](https://github.com/tjbencomo/notes/blob/master/methods_resources.md)
