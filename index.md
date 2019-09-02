@@ -31,9 +31,9 @@ to predict survival using tumor size and location. Both summers required me to b
 data pipelines to preprocess imaging data for analysis.
 
 # Social Media
-[![](/assets/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tomasbencomo/)
-[![](/assets/assets/Twitter_Logo_Blue.png)](https://twitter.com/BencomoTomas)
-[![](/assets/assets/stack-overflow-logo.png)](https://stats.stackexchange.com/users/246432/tomas-bencomo?tab=profile)
+[![](/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tomasbencomo/)
+[![](/assets/Twitter_Logo_Blue.png)](https://twitter.com/BencomoTomas)
+[![](/assets/stack-overflow-logo.png)](https://stats.stackexchange.com/users/246432/tomas-bencomo?tab=profile)
 
 # CV
 
