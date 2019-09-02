@@ -20,7 +20,7 @@ My research at school focuses on using bioinformatics to characterize
 novel oncogenes and identify treatments for skin cancers. I have experience
 conducting Whole Exome and RNA sequencing studies using
 Stanford's [Sherlock](https://www.sherlock.stanford.edu/docs/overview/introduction/)
-HPC cluster. My responsibilities also include managing data pipelines and storage
+HPC cluster. My responsibilities also include managing data storage and pipelines
 for the lab.
 ## Swanson Lab
 My summer fellowships used MR imaging to study different aspects of Glioblastoma.
