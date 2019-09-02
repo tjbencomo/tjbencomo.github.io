@@ -38,3 +38,4 @@ data pipelines to preprocess imaging data for analysis.
 # CV
 
 # Resources
+[List of resources for statistics, bioinformatics, and machine learning](https://github.com/tjbencomo/notes/blob/master/methods_resources.md)
