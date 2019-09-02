@@ -1,7 +1,7 @@
 # About Me
 I'm a 3rd year B.S. candidate in Computer Science at Stanford University.
 During school I study the genetics of skin cancer in 
-[Carolyn Lee's Lab](https://leelab.stanford.edu).I've spent the past two
+[Carolyn Lee's Lab](https://leelab.stanford.edu). I've spent the past two
 summers researching precision medicine for Glioblastoma
 in [Kristin Swanson's Lab](http://mathematicalneurooncology.org) at The Mayo Clinic.
 After undergrad I plan to get an MD/PhD and become a physician-scientist.
