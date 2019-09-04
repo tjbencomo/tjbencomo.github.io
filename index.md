@@ -36,6 +36,8 @@ data pipelines to preprocess imaging data for analysis.
 # CV
 My [curriculum vitae](tomas_bencomo_cv.pdf)
 
+Does this [link](https://github.com/tjbencomo/survival-talk-pntlab/blob/master/tutorial.html) work?
+
 # Social Media
 [![](/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tomasbencomo/)
 [![](/assets/Twitter_Logo_Blue.png)](https://twitter.com/BencomoTomas)
