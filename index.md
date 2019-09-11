@@ -2,7 +2,7 @@
 I'm a 3rd year B.S. candidate in Computer Science at Stanford University.
 During school I study the genetics of skin cancer in 
 [Dr. Carolyn Lee's Lab](https://leelab.stanford.edu). I've spent the past two
-summers researching precision medicine for Glioblastoma
+summers researching precision medicine for glioblastoma
 in [Dr. Kristin Swanson's Lab](http://mathematicalneurooncology.org) at The Mayo Clinic.
 After undergrad I plan to get an MD/PhD and become a physician-scientist.
 Outside of science I like movies and trying new burger
@@ -23,7 +23,7 @@ Stanford's [Sherlock](https://www.sherlock.stanford.edu/docs/overview/introducti
 HPC cluster. My responsibilities also include managing data storage and pipelines
 for the lab.
 ## Swanson Lab
-My summer fellowships used MR imaging to study different aspects of Glioblastoma.
+My summer fellowships used MR imaging to study different aspects of glioblastoma.
 Freshman year I investigated sex differences in MR imaging. Sophomore year I studied 
 blood brain barrier permeability in mice, building models to 
 predict drug distribution in the brain. I also helped develop prognostic risk models
