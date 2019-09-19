@@ -5,8 +5,7 @@ During school I study the genetics of skin cancer in
 summers researching precision medicine for glioblastoma
 in [Dr. Kristin Swanson's Lab](http://mathematicalneurooncology.org) at The Mayo Clinic.
 After undergrad I plan to get an MD/PhD and become a physician-scientist.
-Outside of science I like movies and trying new burger
-restaurants.
+
 
 # Research Interests
 My interests focus on applying informatics to better understand disease biology, 
