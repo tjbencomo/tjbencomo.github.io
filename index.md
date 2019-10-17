@@ -37,7 +37,7 @@ data pipelines to preprocess imaging data for analysis.
 [List of resources for statistics, bioinformatics, and machine learning](https://github.com/tjbencomo/notes/blob/master/methods_resources.md)
 
 # CV
-My [curriculum vitae](tomas_bencomo_cv.pdf)
+My [curriculum vitae](tbencomo_online_cv.pdf)
 
 # Social Media
 [![](/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tomasbencomo/)
