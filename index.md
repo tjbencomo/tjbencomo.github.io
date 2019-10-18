@@ -30,7 +30,7 @@ to predict survival using tumor size and location. Both summers required me to b
 data pipelines to preprocess imaging data for analysis.
 
 # Resources
-[Common Kaplan Meier mistakes](https://medium.com/@tjbencomo/kaplan-meier-mistakes-48cd9e168b09)
+[Common Kaplan Meier mistakes](https://towardsdatascience.com/kaplan-meier-mistakes-48cd9e168b09)
 
 [Best practices for survival analysis talk](https://github.com/tjbencomo/survival-talk-pntlab)
 
