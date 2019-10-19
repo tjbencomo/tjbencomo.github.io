@@ -4,13 +4,13 @@ During school I study the genetics of skin cancer in
 [Dr. Carolyn Lee's Lab](https://leelab.stanford.edu). I've spent the past two
 summers researching precision medicine for glioblastoma
 in [Dr. Kristin Swanson's Lab](http://mathematicalneurooncology.org) at The Mayo Clinic.
-After undergrad I plan to get an MD/PhD and become a physician-scientist.
-
+After undergrad I want to attend graduate school and study
+how we can combine molecular and clinical data sources to improve patient outcomes.
 
 # Research Interests
 My interests focus on applying informatics to better understand disease biology, 
 building tools to improve physician decision-making, and using evidence based
-medicine to evaluate medical practices. I'm also an advocate for open science,
+medicine to evaluate clinical practices. I'm also an advocate for open science,
 reproducible research, and science education. 
 
 # Research Experience
@@ -22,17 +22,17 @@ Stanford's [Sherlock](https://www.sherlock.stanford.edu/docs/overview/introducti
 HPC cluster. My responsibilities also include managing data storage and pipelines
 for the lab.
 ## Swanson Lab
-My summer fellowships used MR imaging to study different aspects of glioblastoma.
+My summer fellowships used magnetic resonance (MR) imaging to study different aspects of glioblastoma.
 Freshman year I investigated sex differences in MR imaging. Sophomore year I studied 
 blood brain barrier permeability in mice, building models to 
 predict drug distribution in the brain. I also helped develop prognostic risk models
-to predict survival using tumor size and location. Both summers required me to build
-data pipelines to preprocess imaging data for analysis.
+to predict survival using tumor size and location I implemented neuroimaging 
+pipelines to process MR images.
 
 # Resources
-[Common Kaplan Meier mistakes](https://towardsdatascience.com/kaplan-meier-mistakes-48cd9e168b09)
+[Common survival analysis mistakes](https://towardsdatascience.com/kaplan-meier-mistakes-48cd9e168b09)
 
-[Best practices for survival analysis talk](https://github.com/tjbencomo/survival-talk-pntlab)
+[Best practices for survival analysis](https://github.com/tjbencomo/survival-talk-pntlab)
 
 [List of resources for statistics, bioinformatics, and machine learning](https://github.com/tjbencomo/notes/blob/master/methods_resources.md)
 
