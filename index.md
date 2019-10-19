@@ -26,7 +26,7 @@ My summer fellowships used magnetic resonance (MR) imaging to study different as
 Freshman year I investigated sex differences in MR imaging. Sophomore year I studied 
 blood brain barrier permeability in mice, building models to 
 predict drug distribution in the brain. I also helped develop prognostic risk models
-to predict survival using tumor size and location I implemented neuroimaging 
+using tumor size and location and I implemented neuroimaging 
 pipelines to process MR images.
 
 # Resources
