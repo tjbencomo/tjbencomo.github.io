@@ -40,6 +40,6 @@ pipelines to process MR data.
 My [curriculum vitae](tbencomo_online_cv.pdf)
 
 # Social Media
-[![](/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tomasbencomo/)
+[![](/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tbencomo/)
 [![](/assets/Twitter_Logo_Blue.png)](https://twitter.com/BencomoTomas)
 [![](/assets/stack-overflow-logo.png)](https://stats.stackexchange.com/users/246432/tomas-bencomo?tab=profile)
