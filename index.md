@@ -4,13 +4,11 @@ During school I study the genetics of skin cancer in
 [Dr. Carolyn Lee's Lab](https://leelab.stanford.edu). I've spent the past two
 summers researching precision medicine for glioblastoma
 in [Dr. Kristin Swanson's Lab](http://mathematicalneurooncology.org) at The Mayo Clinic.
-After undergrad I want to attend graduate school and study
-how we can combine molecular and clinical data sources to improve patient outcomes.
+After undergrad I hope to further develop my skills as an MD-PhD student.
 
 # Research Interests
-My interests focus on applying informatics to better understand disease biology, 
-building tools to improve physician decision-making, and using evidence based
-medicine to evaluate clinical practices. I'm also an advocate for open science,
+My interests focus on using bioinformatics to elucidate disease biology and 
+building tools to improve physician decision-making. I'm also an advocate for open science,
 reproducible research, and science education. 
 
 # Research Experience
@@ -37,7 +35,7 @@ pipelines to process MR data.
 [List of resources for statistics, bioinformatics, and machine learning](https://github.com/tjbencomo/notes/blob/master/methods_resources.md)
 
 # CV
-My [curriculum vitae](tbencomo_online_cv.pdf)
+My [curriculum vitae](tomas_bencomo_cv.pdf)
 
 # Social Media
 [![](/assets/LI-In-Bug.png)](https://www.linkedin.com/in/tbencomo/)
