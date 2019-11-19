@@ -3,3 +3,4 @@ title: Tomas Bencomo
 description: " "
 logo: headshot_circle.png
 show_downloads: false
+plugins: [jekyll-seo-tag]
