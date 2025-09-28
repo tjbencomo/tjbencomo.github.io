@@ -1,0 +1,47 @@
+---
+title: "Tomas Bencomo"
+image: "tbencomo_closeup_small.jpg"
+links:
+  - label: CV
+    url: "https://tjbencomo.github.io/Bencomo_CV.pdf"
+  - label: GitHub
+    url: "https://github.com/tjbencomo"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=-cIZamoAAAAJ&hl=en"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tbencomo/"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a MD/PhD student at the University of Washington. 
+My research interests broadly lie at the intersection of computational biology 
+and cancer immunology. 
+Currently in my PhD, I am using spatial transcriptomics to 
+explore mechanisms of immunotherapy resistance in 
+[Merkel cell carcinoma](https://merkelcell.org/). 
+I split my time between the [Nghiem](https://pnlab.org/), 
+[Setty](https://research.fredhutch.org/setty/en.html), and 
+[Newell](https://research.fredhutch.org/newell/en.html) labs. 
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+MD/PhD | 2022 - Present
+
+**Stanford University** | Stanford, CA
+
+B.S. in Computer Science | 2017 - 2021
+
+## Experience
+
+**Stanford University School of Medicine** | Research Associate | 2021 - 2022
+
+**Stanford Bio-X** | Summer Research Fellow | 2020
+
+**Mayo Clinic** | Summer Undergraduate Research Fellow | 2018 & 2019
+
+**Translational Genomics Institute** | Helios Scholar | 2016
